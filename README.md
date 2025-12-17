@@ -34,9 +34,4 @@
 - **CSS3** for styling and fonts  
 - **JavaScript (DOM manipulation)** for randomization and dynamic content  
 
-##  Future Improvements
-- Add more Pikachu images for variety  
-- Include animations when the winner is declared  
-- Add a "Refresh" button instead of relying only on page reload  
 
-Would you like me to also help you write a **README.md file** formatted with Markdown so you can directly upload it to GitHub?
